@@ -7,7 +7,6 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Frontier](https://frontier.xyz/).
 - 🌱 I’m currently learning more about Flutter, Android native.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
