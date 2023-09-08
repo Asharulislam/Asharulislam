@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning more about Flutter, Android native.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 10 hours on coding.
+- ⚡ Fun fact: I spend almost 15 hours on coding.
 
 ## 🌐 Socials
 
