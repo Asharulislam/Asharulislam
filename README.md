@@ -23,33 +23,22 @@
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-333333?style=for-the-badge&logo=apple&logoColor=white"/>
 
-## 🛒 Apps on Store
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7703305844118303242) [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/frontier-crypto-defi-wallet/id1482380988)
-
-## 🎵 Music apps I use
-<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
-
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=iampawan&theme=minimal"/>
-</p>
-
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iampawan&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asharulislam&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iampawan&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asharulislam&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asharulislam&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Asharulislam&icon=0&color=1)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mtechviral) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imthepk) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mtechviral) 
